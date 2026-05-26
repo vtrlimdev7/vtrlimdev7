@@ -18,6 +18,3 @@ E posteriormente ingressarei no JavaScript, afim de futuramente me especializar 
 ### 📊 Estatísticas do GitHub
 
 Se o card abaixo continuar quebrado, é porque você precisa ter pelo menos um repositório **público** com arquivos de código dentro. 
-
-![Estatísticas de Victor](https://github-readme-stats.vercel.app/api?username=vtrlimdev7&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vtrlimdev7&layout=compact&theme=dark)
