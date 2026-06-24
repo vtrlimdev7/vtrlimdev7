@@ -1,4 +1,4 @@
-# Olá, sou o Victor Lima! 👋
+# Olá, eu sou o Victor Lima! 👋
 
 Desenvolvedor Front-End focado em criar soluções robustas, dinâmicas e focadas na experiência do usuário. Atualmente, estou aprofundando meus conhecimentos no ecossistema JavaScript e desenvolvendo projetos práticos com consumo de APIs.
 
@@ -15,11 +15,14 @@ Desenvolvedor Front-End focado em criar soluções robustas, dinâmicas e focada
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtrlimdev7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtrlimdev7&show_icons=true&theme=dark&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtrlimdev7&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
 
 ## 🌐 Conecte-se Comigo
-* **LinkedIn:** [victor-lima-174843259](https://www.linkedin.com/in/victor-lima-174843259/)
+
+<a href="https://www.linkedin.com/in/victor-lima-174843259/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
