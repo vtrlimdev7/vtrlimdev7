@@ -15,8 +15,8 @@ Desenvolvedor Front-End focado em criar soluções robustas, dinâmicas e focada
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vtrlimdev7&show_icons=true&theme=dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtrlimdev7&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vtrlimdev7&show_icons=true&theme=dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vtrlimdev7&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
